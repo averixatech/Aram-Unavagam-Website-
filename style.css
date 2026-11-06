@@ -628,3 +628,13 @@ html, body {
     font-size: 11px;
   }
 }
+.designer-credit a {
+  color: #e6bd55;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.designer-credit a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
